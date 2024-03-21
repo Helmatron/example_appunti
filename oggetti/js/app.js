@@ -15,3 +15,5 @@ let userEmail = 'mario.mario@gmail.com'
 
 // spesso capita di gestire più elementi e questi dati possono essere organizzati in ogetti:
 // un oggetto ha delle caratteristiche che possiamo definire
+// un oggetto è composto da una struttura di dati
+// un oggetto si richiama con una etichetta
