@@ -1,0 +1,5 @@
+Usare solo variabili Let e Const e non usale mai variabile var (a meno che tu non stia lavorando su un javascript molto vecchio e non aggiornabile)
+
+Le variabili devono sempre iniziare con una lettera
+Le variabili possono usare solo lettere, numeri e underscore
+Le variabili non devono contenere keywords di javascript

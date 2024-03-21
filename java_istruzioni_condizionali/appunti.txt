@@ -1,0 +1,31 @@
+condizionali: operazioni di vero o falso (valori booleani)
+
+if (condizione) ---> qualsiasi dato inserito nella parantesi verrà considerato come booleano e javascript cercherà un valore vero o falso.
+
+else if (altra condizione)
+
+else
+
+
+Operatori relazionali
+
+==  uguaglianza (verifica solo il valore ma non i tipo)
+!=  diversità
+>   maggiore di
+<   minore di
+>=  maggiore o uguale
+<=  minore o uguale
+
+=== Identità        (L'identità verifica sia il tipo (numero o stringa) che il valore sempre preferibile a ==)
+!== non identità 
+
+
+OPERATORI LOGICI
+
+ci permettono di combinare le condizioni booleane
+
+&& and, "e logico"  (restituisce il vero solo se i due operatori sono veri)
+|| or, "o logico"   (Restituisce il vero se almeno uno dei due operatori è vero)
+
+
+! not, negazione (cambia il valore di verità delloperando)
