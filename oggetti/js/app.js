@@ -17,3 +17,31 @@ let userEmail = 'mario.mario@gmail.com'
 // un oggetto ha delle caratteristiche che possiamo definire
 // un oggetto è composto da una struttura di dati
 // un oggetto si richiama con una etichetta
+
+
+// palla è il nostro oggetto
+const palla = {
+
+    // proprietà dell'oggetto (nome: valore)
+    colore: ('rosso'),
+    tipo: 'pallina da golf',
+    chiave: 'tipoDiDato'
+
+};
+
+// lo sviluppatore decide come chiamare gli oggetti e organizzare i dati
+
+let mimmo = {
+    name: 'mimmo',
+    age: 36,
+}
+
+console.log(mimmo)
+
+//per accedere ad una proprità interna di un oggetto è come quando lo cerchi in html
+
+console.log(mimmo.name)
+
+console.log(mimmo['name'])
+
+mimmo.children = ['mario']
